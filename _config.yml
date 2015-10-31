@@ -1,0 +1,23 @@
+name: Pepper Rafferty
+favicon: null
+layout_spectrum: 0.16148862661793828
+typography_spectrum: 0.3715330120176077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.38909108960069716
+  lightness: 0.09510572394356132
+  saturation: 0.04170288541354239
+  rhythmicContrast: 0.42474135640077293
+purpose: []
